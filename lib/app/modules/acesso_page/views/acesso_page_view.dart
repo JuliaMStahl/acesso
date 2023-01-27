@@ -61,7 +61,7 @@ class AcessoPageView extends GetView<AcessoPageController> {
                 const SizedBox(height: 20),
                 ElevatedButton(
                   onPressed: () => Get.toNamed(
-                    RedirectTo.ROUTES_PERFIL,
+                    RedirectTo.ROUTES_DASHBOARD,
                     arguments: controller.usuarioController.text,
                   ),
                   style: ElevatedButton.styleFrom(

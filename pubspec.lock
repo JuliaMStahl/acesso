@@ -28,7 +28,7 @@ packages:
       name: args
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.3.1"
+    version: "2.3.2"
   async:
     dependency: transitive
     description:
@@ -106,6 +106,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.2.4"
+  dashboard:
+    dependency: transitive
+    description:
+      path: "."
+      ref: main
+      resolved-ref: "68fe62fb5c914fa1d7a8342a3e54cf973cf86267"
+      url: "https://github.com/JuliaMStahl/dashboard.git"
+    source: git
+    version: "0.0.1"
   dependency_manager:
     dependency: "direct main"
     description:
@@ -286,7 +295,7 @@ packages:
     description:
       path: "."
       ref: master
-      resolved-ref: "8f62505701f0375389a704b0862bebc97668965c"
+      resolved-ref: "8c8dd7d4ce2c03e136cd0405ff4f97cd91bea8cd"
       url: "https://github.com/JuliaMStahl/routes_lib.git"
     source: git
     version: "0.0.1"

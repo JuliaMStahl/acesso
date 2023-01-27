@@ -9,13 +9,6 @@
             </list>
           </value>
         </entry>
-        <entry key="acesso">
-          <value>
-            <list>
-              <option value="$PROJECT_DIR$/../login/features/acesso/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="analyzer">
           <value>
             <list>
@@ -404,7 +397,6 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../login/features/acesso/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/dependency-manager-aa58c21c45c4479a8b0c7c645976d418ba4359f8//lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/perfil-545fdbbb99b38b64751921021cc4e88bce0218d9//lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/routes_lib-8f62505701f0375389a704b0862bebc97668965c//lib" />
