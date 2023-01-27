@@ -1,7 +1,11 @@
 acesso
 2.18
-file:///C:/Users/julia/kepha/pocs/multi-repo/login/features/acesso/
-file:///C:/Users/julia/kepha/pocs/multi-repo/login/features/acesso/lib/
+file:///C:/Users/julia/kepha/pocs/multi-repo/acesso/
+file:///C:/Users/julia/kepha/pocs/multi-repo/acesso/lib/
+dashboard
+2.18
+file:///C:/src/flutter/.pub-cache/git/dashboard-68fe62fb5c914fa1d7a8342a3e54cf973cf86267/
+file:///C:/src/flutter/.pub-cache/git/dashboard-68fe62fb5c914fa1d7a8342a3e54cf973cf86267/lib/
 dependency_manager
 2.18
 file:///C:/src/flutter/.pub-cache/git/dependency-manager-aa58c21c45c4479a8b0c7c645976d418ba4359f8/
@@ -12,8 +16,8 @@ file:///C:/src/flutter/.pub-cache/git/perfil-545fdbbb99b38b64751921021cc4e88bce0
 file:///C:/src/flutter/.pub-cache/git/perfil-545fdbbb99b38b64751921021cc4e88bce0218d9/lib/
 routes_lib
 2.18
-file:///C:/src/flutter/.pub-cache/git/routes_lib-8f62505701f0375389a704b0862bebc97668965c/
-file:///C:/src/flutter/.pub-cache/git/routes_lib-8f62505701f0375389a704b0862bebc97668965c/lib/
+file:///C:/src/flutter/.pub-cache/git/routes_lib-8c8dd7d4ce2c03e136cd0405ff4f97cd91bea8cd/
+file:///C:/src/flutter/.pub-cache/git/routes_lib-8c8dd7d4ce2c03e136cd0405ff4f97cd91bea8cd/lib/
 _fe_analyzer_shared
 2.17
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-50.0.0/
@@ -27,9 +31,9 @@ ansicolor
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/ansicolor-2.0.1/
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/ansicolor-2.0.1/lib/
 args
-2.12
-file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.1/
-file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.1/lib/
+2.18
+file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.2/
+file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.2/lib/
 async
 2.14
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.9.0/

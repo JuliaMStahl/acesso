@@ -1,3 +1,4 @@
+import 'package:acesso/generated/locales.g.dart';
 import 'package:dependency_manager/dependency_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -12,7 +13,7 @@ class AcessoPageView extends GetView<AcessoPageController> {
       onTap: () => FocusManager.instance.primaryFocus?.unfocus(),
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('Login'),
+          title: Text(LocaleKeys.login.tr),
           centerTitle: true,
           backgroundColor: Colors.pink,
         ),
@@ -25,15 +26,15 @@ class AcessoPageView extends GetView<AcessoPageController> {
               mainAxisSize: MainAxisSize.min,
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                const Text(
-                  'Faça o login',
+                Text(
+                  LocaleKeys.fazer_login.tr,
                   style: TextStyle(fontSize: 22),
                 ),
                 const SizedBox(height: 40),
                 TextField(
                   controller: controller.usuarioController,
-                  decoration: const InputDecoration(
-                    labelText: 'Usuário',
+                  decoration: InputDecoration(
+                    labelText: LocaleKeys.usuario.tr,
                     labelStyle: TextStyle(color: Colors.purple),
                     border: OutlineInputBorder(
                         borderSide: BorderSide(color: Colors.pink)),
@@ -48,8 +49,8 @@ class AcessoPageView extends GetView<AcessoPageController> {
                   controller: controller.senhaController,
                   focusNode: controller.senhaFocus,
                   obscureText: true,
-                  decoration: const InputDecoration(
-                    labelText: 'Senha',
+                  decoration: InputDecoration(
+                    labelText: LocaleKeys.senha.tr,
                     labelStyle: TextStyle(color: Colors.purple),
                     border: OutlineInputBorder(
                         borderSide: BorderSide(color: Colors.pink)),
@@ -66,7 +67,7 @@ class AcessoPageView extends GetView<AcessoPageController> {
                   ),
                   style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.pink.shade800),
-                  child: Text('Entrar'.toUpperCase()),
+                  child: Text(LocaleKeys.entrar.tr.toUpperCase()),
                 )
               ],
             ),
