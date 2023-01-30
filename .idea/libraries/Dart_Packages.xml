@@ -110,14 +110,14 @@
         <entry key="dashboard">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/dashboard-68fe62fb5c914fa1d7a8342a3e54cf973cf86267//lib" />
+              <option value="$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/dashboard-acc18aac195f7a672a4ba04c9de0a1fcb210a368//lib" />
             </list>
           </value>
         </entry>
         <entry key="dependency_manager">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/dependency-manager-aa58c21c45c4479a8b0c7c645976d418ba4359f8//lib" />
+              <option value="$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/dependency-manager-72be2d9b9a93d4209b39e3d07240ad470c6e5fef//lib" />
             </list>
           </value>
         </entry>
@@ -250,7 +250,7 @@
         <entry key="perfil">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/perfil-545fdbbb99b38b64751921021cc4e88bce0218d9//lib" />
+              <option value="$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/perfil-e0861ad872ec8f0343c3aac40f5fb6823e1a80c5//lib" />
             </list>
           </value>
         </entry>
@@ -293,6 +293,13 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/routes_lib-8c8dd7d4ce2c03e136cd0405ff4f97cd91bea8cd//lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="shared_lib">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/shared_lib-59f0ec5754d2168bcfb08e8192596464a20bf43c//lib" />
             </list>
           </value>
         </entry>
@@ -352,6 +359,13 @@
             </list>
           </value>
         </entry>
+        <entry key="translation_lib">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/translation_lib-b38f829028e29e6631de4f79e902ce1728341214//lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="typed_data">
           <value>
             <list>
@@ -404,10 +418,12 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/dashboard-68fe62fb5c914fa1d7a8342a3e54cf973cf86267//lib" />
-      <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/dependency-manager-aa58c21c45c4479a8b0c7c645976d418ba4359f8//lib" />
-      <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/perfil-545fdbbb99b38b64751921021cc4e88bce0218d9//lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/dashboard-acc18aac195f7a672a4ba04c9de0a1fcb210a368//lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/dependency-manager-72be2d9b9a93d4209b39e3d07240ad470c6e5fef//lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/perfil-e0861ad872ec8f0343c3aac40f5fb6823e1a80c5//lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/routes_lib-8c8dd7d4ce2c03e136cd0405ff4f97cd91bea8cd//lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/shared_lib-59f0ec5754d2168bcfb08e8192596464a20bf43c//lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/git/translation_lib-b38f829028e29e6631de4f79e902ce1728341214//lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-50.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-5.2.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../src/flutter/.pub-cache/hosted/pub.dartlang.org/ansicolor-2.0.1/lib" />

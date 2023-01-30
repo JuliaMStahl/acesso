@@ -3,6 +3,7 @@ import 'package:dependency_manager/dependency_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../controllers/acesso_page_controller.dart';
+import 'package:shared_lib/utils/widgets/botao_padrao.dart';
 
 class AcessoPageView extends GetView<AcessoPageController> {
   const AcessoPageView({Key? key}) : super(key: key);
@@ -60,14 +61,12 @@ class AcessoPageView extends GetView<AcessoPageController> {
                   ),
                 ),
                 const SizedBox(height: 20),
-                ElevatedButton(
+                BotaoPadrao(
+                  texto: LocaleKeys.entrar.tr,
                   onPressed: () => Get.toNamed(
                     RedirectTo.ROUTES_DASHBOARD,
                     arguments: controller.usuarioController.text,
                   ),
-                  style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.pink.shade800),
-                  child: Text(LocaleKeys.entrar.tr.toUpperCase()),
                 )
               ],
             ),

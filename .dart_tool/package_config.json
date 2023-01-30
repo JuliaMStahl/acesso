@@ -93,13 +93,13 @@
     },
     {
       "name": "dashboard",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/git/dashboard-68fe62fb5c914fa1d7a8342a3e54cf973cf86267/",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/git/dashboard-acc18aac195f7a672a4ba04c9de0a1fcb210a368/",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "dependency_manager",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/git/dependency-manager-aa58c21c45c4479a8b0c7c645976d418ba4359f8/",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/git/dependency-manager-72be2d9b9a93d4209b39e3d07240ad470c6e5fef/",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -213,7 +213,7 @@
     },
     {
       "name": "perfil",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/git/perfil-545fdbbb99b38b64751921021cc4e88bce0218d9/",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/git/perfil-e0861ad872ec8f0343c3aac40f5fb6823e1a80c5/",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -250,6 +250,12 @@
     {
       "name": "routes_lib",
       "rootUri": "file:///C:/src/flutter/.pub-cache/git/routes_lib-8c8dd7d4ce2c03e136cd0405ff4f97cd91bea8cd/",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "shared_lib",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/git/shared_lib-59f0ec5754d2168bcfb08e8192596464a20bf43c/",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -302,6 +308,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "translation_lib",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/git/translation_lib-b38f829028e29e6631de4f79e902ce1728341214/",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "typed_data",
       "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.1",
       "packageUri": "lib/",
@@ -350,7 +362,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-01-27T19:45:22.282046Z",
+  "generated": "2023-01-30T18:10:23.235235Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }
