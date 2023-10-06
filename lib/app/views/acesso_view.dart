@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 
 import '../controllers/acesso_controller.dart';
 
 class AcessoView extends StatelessWidget {
-  final AcessoController controller;
-
-  const AcessoView({required this.controller});
+  final AcessoController controller = AcessoController();
 
   @override
   Widget build(BuildContext context) {
@@ -53,7 +52,8 @@ class AcessoView extends StatelessWidget {
                     labelText: 'Senha',
                     labelStyle: TextStyle(color: Colors.purple),
                     border: OutlineInputBorder(
-                        borderSide: BorderSide(color: Colors.pink)),
+                      borderSide: BorderSide(color: Colors.pink),
+                    ),
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(color: Colors.purple),
                     ),
@@ -62,7 +62,10 @@ class AcessoView extends StatelessWidget {
                 const SizedBox(height: 20),
                 ElevatedButton(
                   child: Text('Entrar'),
-                  onPressed: controller.goToNextPage,
+                  onPressed: () => context.goNamed(
+                    'dashboard',
+                    pathParameters: {'user': controller.usuarioController.text},
+                  ),
                 )
               ],
             ),
